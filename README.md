@@ -2,6 +2,22 @@
 
 This is a comprehensive examination system designed to facilitate efficient test-taking. It provides a user-friendly platform for creating, managing, and taking exams, making it an ideal solution for a wide range of assessments.
 
+# Sample Credentials
+
+1. **Administrator:**
+    - admin@gmail.com
+    - password
+
+2. **Moderator:**
+    - moderator@gmail.com
+    - password
+
+3. **Candidate:**
+    - candidate@gmail.com
+    - password
+
+This is a comprehensive examination system designed to facilitate efficient test-taking. It provides a user-friendly platform for creating, managing, and taking exams, making it an ideal solution for a wide range of assessments.
+
 # Running the Project
 
 Follow these steps to set up and run the project on your local machine:
