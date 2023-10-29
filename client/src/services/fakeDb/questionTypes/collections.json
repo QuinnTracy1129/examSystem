@@ -1,0 +1,38 @@
+[
+  {
+    "name": "qna",
+    "label": "Question and Answer",
+    "instructions": "Provide an answer in the input field.",
+    "structure": {
+      "answer": "",
+      "choices": null
+    }
+  },
+  {
+    "name": "mc",
+    "label": "Multiple Choices",
+    "instructions": "Select an answer from the choices.",
+    "structure": {
+      "answer": 0,
+      "choices": ["", "", "", ""]
+    }
+  },
+  {
+    "name": "enum",
+    "label": "Enumeration",
+    "instructions": "Write your answers in the input field; arrangement does not matter.",
+    "structure": {
+      "answer": [""],
+      "choices": null
+    }
+  },
+  {
+    "name": "match",
+    "label": "Item-Matching",
+    "instructions": "Drag and drop items to match the list on the left.",
+    "structure": {
+      "answer": [{ "id": 1, "value": "" }],
+      "choices": [{ "id": 1, "value": "" }]
+    }
+  }
+]
